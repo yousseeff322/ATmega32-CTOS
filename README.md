@@ -7,6 +7,7 @@ Welcome to the AVR Atmega32 Drivers Repository! This repository contains a colle
 
 ### MCAL Layer
 - DIO (Digital Input/Output)
+- PORT Initialization 
 - GIE (Global Interrupt Enable)
 - EXTI/Interrupt (External Interrupt)
 - ADC (Analog-to-Digital Converter)
